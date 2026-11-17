@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tudominio.controlgastos.app-mergeDebugResources-32:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/home/eynor/.gradle/caches/9.6.0/transforms/41a6e2242cb48227b7c5c2a94528868e/transformed/material3/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

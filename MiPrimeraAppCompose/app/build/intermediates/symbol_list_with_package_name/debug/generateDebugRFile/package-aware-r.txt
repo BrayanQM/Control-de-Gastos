@@ -1,0 +1,4 @@
+com.tudominio.miprimeraappcompose
+drawable ic_launcher
+string app_name
+style Theme_MiPrimeraAppCompose
